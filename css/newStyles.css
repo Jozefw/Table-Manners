@@ -1,0 +1,37 @@
+img{
+    width: 55%;
+    display: block;
+    margin: 0 auto;
+}
+h2 {
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    color: grey;
+    margin-top: 5rem;
+}
+h3 {
+    font-size: 2.0rem;
+    color: royalblue;
+}
+table {
+    border: 3px solid #c4c4c4;
+    border-collapse: collapse;
+    border-radius: 5px;
+}
+table.color-stripe tr:hover{
+    background-color: #ff9800;
+}
+td {
+    border: 3px solid #c4c4c4;
+}
+
+a.test_name {
+    margin: 1rem 0rem!important;
+    display: block;
+    font-size: 2rem;
+}
+.time{
+    font-size: 1.5rem;
+    text-align: center;
+    display: block;
+}
