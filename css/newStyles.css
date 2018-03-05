@@ -21,6 +21,12 @@ table {
 table.color-stripe tr:hover{
     background-color: #ff9800;
 }
+tr{
+    transition: .3s;
+}
+table.color-stripe{
+    background-color: #fff;
+}
 td {
     border: 3px solid #c4c4c4;
 }
